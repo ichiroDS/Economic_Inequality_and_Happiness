@@ -1,0 +1,138 @@
+﻿Rank	Country	Search by Country	Avg Life Eval	Lower bound 95% CI for rank	Lowerwhisker	Upper bound 95% CI for rank	Upperwhisker
+1	Finland		7.8	1.0	7.7	1.0	7.9
+2	Denmark		7.6	2.0	7.5	4.0	7.7
+3	Iceland		7.5	2.0	7.4	7.0	7.6
+4	Israel		7.5	2.0	7.4	8.0	7.5
+5	Netherlands		7.4	3.0	7.3	9.0	7.5
+6	Sweden		7.4	2.0	7.3	9.0	7.5
+7	Norway		7.3	3.0	7.2	9.0	7.4
+8	Switzerland		7.2	5.0	7.2	12.0	7.3
+9	Luxembourg		7.2	5.0	7.1	12.0	7.4
+10	New Zealand		7.1	7.0	7.0	13.0	7.2
+11	Austria		7.1	8.0	7.0	15.0	7.2
+12	Australia		7.1	8.0	7.0	16.0	7.2
+13	Canada		7.0	10.0	6.9	20.0	7.0
+14	Ireland		6.9	11.0	6.8	20.0	7.0
+15	United States		6.9	12.0	6.8	20.0	7.0
+16	Germany		6.9	11.0	6.8	20.0	7.0
+17	Belgium		6.9	13.0	6.8	20.0	6.9
+18	Czechia		6.8	13.0	6.8	23.0	6.9
+19	United Kingdom		6.8	13.0	6.7	25.0	6.9
+20	Lithuania		6.8	13.0	6.7	26.0	6.8
+21	France		6.7	18.0	6.6	30.0	6.7
+22	Slovenia		6.6	18.0	6.6	32.0	6.7
+23	Costa Rica		6.6	19.0	6.5	34.0	6.7
+24	Romania		6.6	19.0	6.5	34.0	6.7
+25	Singapore*		6.6	18.0	6.5	37.0	6.7
+26	United Arab Emirates		6.6	20.0	6.5	34.0	6.7
+27	Taiwan Province of China		6.5	21.0	6.4	40.0	6.6
+28	Uruguay		6.5	21.0	6.4	41.0	6.6
+29	Slovakia*		6.5	21.0	6.4	42.0	6.6
+30	Saudi Arabia		6.5	21.0	6.3	42.0	6.6
+31	Estonia		6.5	22.0	6.4	41.0	6.5
+32	Spain		6.4	22.0	6.4	42.0	6.5
+33	Italy		6.4	23.0	6.3	46.0	6.5
+34	Kosovo		6.4	23.0	6.2	49.0	6.5
+35	Chile		6.3	26.0	6.2	50.0	6.4
+36	Mexico		6.3	26.0	6.2	51.0	6.4
+37	Malta		6.3	28.0	6.2	53.0	6.4
+38	Panama		6.3	26.0	6.1	55.0	6.4
+39	Poland		6.3	29.0	6.2	55.0	6.3
+40	Nicaragua		6.3	26.0	6.1	56.0	6.4
+41	Latvia		6.2	33.0	6.1	55.0	6.3
+42	Bahrain*		6.2	28.0	6.0	62.0	6.4
+43	Guatemala		6.2	28.0	5.9	65.0	6.4
+44	Kazakhstan		6.1	34.0	6.0	60.0	6.2
+45	Serbia*		6.1	33.0	6.0	61.0	6.3
+46	Cyprus		6.1	34.0	6.0	60.0	6.2
+47	Japan		6.1	35.0	6.0	60.0	6.2
+48	Croatia		6.1	34.0	6.0	61.0	6.2
+49	Brazil		6.1	34.0	6.0	61.0	6.3
+50	El Salvador		6.1	34.0	6.0	61.0	6.3
+51	Hungary		6.0	38.0	5.9	66.0	6.1
+52	Argentina		6.0	38.0	5.9	68.0	6.1
+53	Honduras		6.0	36.0	5.8	68.0	6.2
+54	Uzbekistan		6.0	39.0	5.9	68.0	6.1
+55	Malaysia*		6.0	38.0	5.9	68.0	6.2
+56	Portugal		6.0	40.0	5.9	68.0	6.1
+57	Korea, Republic of		6.0	42.0	5.9	68.0	6.0
+58	Greece		5.9	42.0	5.8	69.0	6.0
+59	Mauritius		5.9	44.0	5.8	70.0	6.0
+60	Thailand		5.8	45.0	5.7	75.0	6.0
+61	Mongolia		5.8	48.0	5.8	74.0	5.9
+62	Kyrgyzstan		5.8	49.0	5.7	74.0	5.9
+63	Moldova, Republic of		5.8	49.0	5.7	75.0	5.9
+64	China*		5.8	49.0	5.7	74.0	5.9
+65	Vietnam		5.8	51.0	5.7	76.0	5.9
+66	Paraguay		5.7	53.0	5.6	77.0	5.9
+67	Montenegro*		5.7	49.0	5.5	79.0	5.9
+68	Jamaica		5.7	52.0	5.5	78.0	5.9
+69	Bolivia		5.7	58.0	5.6	77.0	5.8
+70	Russian Federation		5.7	60.0	5.6	77.0	5.7
+71	Bosnia and Herzegovina*		5.6	59.0	5.5	81.0	5.8
+72	Colombia		5.6	60.0	5.5	78.0	5.7
+73	Dominican Republic		5.6	60.0	5.4	86.0	5.7
+74	Ecuador		5.6	62.0	5.4	86.0	5.7
+75	Peru		5.5	65.0	5.4	86.0	5.6
+76	Philippines*		5.5	62.0	5.4	88.0	5.7
+77	Bulgaria		5.5	66.0	5.4	88.0	5.6
+78	Nepal		5.4	69.0	5.2	95.0	5.5
+79	Armenia		5.3	71.0	5.2	94.0	5.5
+80	Tajikistan*		5.3	71.0	5.2	95.0	5.5
+81	Algeria*		5.3	71.0	5.2	95.0	5.5
+82	Hong Kong S.A.R. of China		5.3	72.0	5.2	95.0	5.4
+83	Albania		5.3	73.0	5.1	98.0	5.4
+84	Indonesia		5.3	74.0	5.2	97.0	5.4
+85	South Africa*		5.3	73.0	5.1	99.0	5.4
+86	Congo, Republic of		5.3	73.0	5.1	99.0	5.4
+87	North Macedonia		5.3	76.0	5.1	98.0	5.4
+88	Venezuela		5.2	76.0	5.1	100.0	5.3
+89	Lao People's Democratic Republic*		5.1	78.0	5.0	103.0	5.3
+90	Georgia		5.1	78.0	5.0	103.0	5.2
+91	Guinea		5.1	78.0	4.9	103.0	5.2
+92	Ukraine		5.1	78.0	5.0	103.0	5.2
+93	Ivory Coast		5.1	78.0	4.9	103.0	5.2
+94	Gabon		5.0	81.0	4.9	103.0	5.2
+95	Nigeria*		5.0	83.0	4.8	104.0	5.1
+96	Cameroon		5.0	84.0	4.8	104.0	5.1
+97	Mozambique		5.0	80.0	4.7	109.0	5.2
+98	Iraq*		4.9	86.0	4.8	106.0	5.1
+99	Palestine, State of		4.9	87.0	4.7	109.0	5.1
+100	Morocco		4.9	89.0	4.8	106.0	5.0
+101	Iran		4.9	89.0	4.8	107.0	5.0
+102	Senegal		4.9	89.0	4.7	109.0	5.0
+103	Mauritania		4.7	89.0	4.4	119.0	5.0
+104	Burkina Faso*		4.6	95.0	4.5	118.0	4.8
+105	Namibia		4.6	97.0	4.5	118.0	4.8
+106	Türkiye*		4.6	97.0	4.5	119.0	4.8
+107	Ghana		4.6	100.0	4.5	118.0	4.7
+108	Pakistan*		4.6	100.0	4.4	119.0	4.7
+109	Niger		4.5	100.0	4.3	124.0	4.7
+110	Tunisia		4.5	103.0	4.4	120.0	4.6
+111	Kenya		4.5	103.0	4.4	121.0	4.6
+112	Sri Lanka*		4.4	103.0	4.3	125.0	4.6
+113	Uganda*		4.4	103.0	4.3	126.0	4.6
+114	Chad		4.4	103.0	4.2	127.0	4.6
+115	Cambodia		4.4	103.0	4.3	125.0	4.5
+116	Benin		4.4	103.0	4.2	126.0	4.5
+117	Myanmar*		4.4	103.0	4.2	126.0	4.5
+118	Bangladesh		4.3	105.0	4.1	127.0	4.4
+119	Gambia		4.3	103.0	4.1	128.0	4.5
+120	Mali		4.2	111.0	4.1	128.0	4.3
+121	Egypt		4.2	111.0	4.1	128.0	4.3
+122	Togo		4.1	111.0	4.0	128.0	4.3
+123	Jordan		4.1	111.0	4.0	128.0	4.2
+124	Ethiopia		4.1	111.0	3.9	128.0	4.3
+125	Liberia		4.0	110.0	3.8	130.0	4.3
+126	India		4.0	117.0	4.0	128.0	4.1
+127	Madagascar		4.0	116.0	3.8	129.0	4.2
+128	Zambia*		4.0	117.0	3.8	130.0	4.2
+129	Tanzania		3.7	126.0	3.5	132.0	3.8
+130	Comoros		3.5	128.0	3.3	134.0	3.8
+131	Malawi		3.5	129.0	3.3	135.0	3.7
+132	Botswana		3.4	129.0	3.2	135.0	3.7
+133	Congo, Democratic Republic of		3.2	130.0	3.0	135.0	3.4
+134	Zimbabwe		3.2	130.0	3.1	135.0	3.3
+135	Sierra Leone		3.1	130.0	3.0	135.0	3.3
+136	Lebanon		2.4	136.0	2.3	136.0	2.5
+137	Afghanistan		1.9	137.0	1.8	137.0	1.9
